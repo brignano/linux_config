@@ -3,6 +3,10 @@ alias proj="cd ~/projects"
 alias docs="cd ~/Documents"
 alias desk="cd ~/Desktop"
 
-alias eb="code ~/.oh-my-zsh/"
-alias ub="source ~/.zshrc"
+# shortcuts
 alias c="clear"
+alias o="nautilus ."
+
+# edit/update oh-my-zsh
+alias editbash="code ~/.oh-my-zsh/"
+alias updatebash="source ~/.zshrc"
